@@ -1,6 +1,6 @@
 # Zfs
 
-**TODO: Add description**
+Library to execute various action on ZFS datasets and pool.
 
 ## Installation
 
@@ -10,7 +10,7 @@ by adding `zfs` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:zfs, "~> 0.1.0"}
+    {:zfs, "~> 0.2.0"}
   ]
 end
 ```
